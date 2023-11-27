@@ -1,0 +1,17 @@
+date;product;value;category;payment_method;priority;my_expense;fixed_expense;details
+10/02/2023;delivery;37,8;food;debit;no;yes;no;food value plus delivery value
+10/02/2023;wallmart;62,69;market;debit;yes;yes;no;
+10/04/2023;netflix;19,99;streaming;credit;no;yes;yes;
+10/04/2023;wallmart;73,93;market;credit;yes;yes;no;
+10/05/2023;shopping;279,96;clothes;credit;yes;yes;no;three tshirts
+10/05/2023;shopping;210;clothes;debit;no;yes;no;one jacket
+10/08/2023;wallmart;86,83;market;credit;yes;yes;no;
+10/09/2023;friend’s loan;50;loan;debit;yes;no;no;
+10/11/2023;product center;37,89;pharmacy;credit;yes;yes;no;
+10/11/2023;wallmart;77,41;market;credit;yes;yes;no;
+10/11/2023;cellphone internet;20;bill;debit;yes;yes;no;
+10/12/2023;wallmart;23,01;market;credit;no;yes;no;
+10/12/2023;mc donalds;31,9;food;credit;no;yes;no;
+10/12/2023;action figure;30;entertainment;credit;no;yes;no;
+10/12/2023;action figure;30;entertainment;credit;no;yes;no;
+10/12/2023;mc donalds;29;food;credit;no;yes;no;
